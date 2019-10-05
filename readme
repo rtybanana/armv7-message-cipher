@@ -1,0 +1,8 @@
+# Message Encrypt/Decrypt
+
+Message encoder/decoder written in ARMv7 Assembly Language
+
+Given an input string and a key to en/decipher it on, this program will be able to encode/decode the message.  
+Written with functions conforming to the AAPCS Procedure Call Standard. 
+
+Completed for my second year module 'Architectures and Operatinf Systems'. I received 100% for this coursework.
